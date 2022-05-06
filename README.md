@@ -1,1 +1,3 @@
-# B-i-t-p-m-h-a
+# Bài tập mã hóa
+
+* [cryptohack](https://cryptohack.org/user/__VNC__/)
